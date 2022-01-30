@@ -1,0 +1,26 @@
+body {
+    background-color: #C0E0DE;
+}
+
+.contador {
+    padding-top: 100px;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+}
+div {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #4F7CAC;
+    color: #C0E0DE;
+    height: 70px;
+    width: 70px;
+    border: none;
+    border-radius: 100%;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 2em;
+}
